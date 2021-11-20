@@ -112,9 +112,9 @@
         <footer class="container-fluid bg-dark footer">
             <br><br>
             <p class="text-center text-muted">
-                Made with <span class="text-danger"> ♥</span> by <a href="https:/github.com/hbakouane" class="text-light">hbakouane</a> |
-                <a class="text-muted" href="https:/facebook.com/cole.haytam.7"><i class="fab fa-facebook"></i></a> |
-                <a class="text-muted" href="mailto:hbakouane@gmail.com">hbakouane@gmail.com</a>
+                Made with <span class="text-danger"> ♥</span> by <a href="https:/github.com/officialozioma" class="text-light">officialozioma</a> |
+                <a class="text-muted" href="https:/facebook.com/dikep2"><i class="fab fa-facebook"></i></a> |
+                <a class="text-muted" href="mailto:dikep15@gmail.com">dikep15@gmail.com</a>
             </p>
             <br>
         </footer>

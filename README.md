@@ -18,7 +18,6 @@
 <code>php artisan serve --port=3000</code><br><br>
 now you can visit localhost:3000 and see the project
 
-To generate users, categories, posts and comments, run this command (images cannot be generated if the http://lorempixel.com/ is down) <br>
 <code>php artisan db:seed</code>
 the password of the whole generated users is password
 
